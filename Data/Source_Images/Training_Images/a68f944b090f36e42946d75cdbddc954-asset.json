@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "a68f944b090f36e42946d75cdbddc954",
+        "name": "0028_08102_b.jpg",
+        "path": "file:C:/Users/truon/Downloads/GreenParking/0028_08102_b.jpg",
+        "size": {
+            "width": 472,
+            "height": 303
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "JKfem87qs",
+            "type": "RECTANGLE",
+            "tags": [
+                "license_Plate"
+            ],
+            "boundingBox": {
+                "height": 58.698051948051955,
+                "width": 62.64906184850591,
+                "left": 176.85649756775538,
+                "top": 75.75
+            },
+            "points": [
+                {
+                    "x": 176.85649756775538,
+                    "y": 75.75
+                },
+                {
+                    "x": 239.5055594162613,
+                    "y": 75.75
+                },
+                {
+                    "x": 239.5055594162613,
+                    "y": 134.44805194805195
+                },
+                {
+                    "x": 176.85649756775538,
+                    "y": 134.44805194805195
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
